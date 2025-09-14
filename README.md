@@ -13,7 +13,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,arch,artix,git,github,vscode,vim,neovim" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,arch,C,git,github,vscode,vim,neovim" />
 </p>
 
 ---
