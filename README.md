@@ -6,14 +6,14 @@
 
 ### 🚀 About Me
 - 🔐 Passionate about **Cybersecurity & Ethical Hacking**  
-- 🖥️ Daily driver: **Arch Linux** (btw 😎)  
+- 🖥️ Daily driver: **Arch Linux** btw 
 - 🎯 Always learning & building cool stuff  
 
 ---
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,arch,git,github,vscode,vim,neovim" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,arch,artix,git,github,vscode,vim,neovim" />
 </p>
 
 ---
