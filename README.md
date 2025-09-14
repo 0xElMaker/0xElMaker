@@ -36,3 +36,9 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
+
+---
+
+Thanks for stopping by! I’m always excited to connect, collaborate, and share knowledge.
+
+<a href="https://archlinux.org"><img src="https://custom-icon-badges.demolab.com/badge/-I%20USE%20ARCH%20BTW-black?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux"/></a>
