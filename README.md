@@ -33,6 +33,6 @@
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
   <a href="mailto:makerniker@gmail.com">
-    <img src="https://skillicons.dev/icons?i=email" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
