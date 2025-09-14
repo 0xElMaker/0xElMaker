@@ -29,10 +29,10 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://discord.com/users/722041118417747988" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-  <a href="mailto:your@email.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  <a href="mailto:makerniker@gmail.com">
+    <img src="https://skillicons.dev/icons?i=email" />
   </a>
 </p>
